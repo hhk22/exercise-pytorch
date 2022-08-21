@@ -1,0 +1,4 @@
+*.tif
+*.npy
+*.pth
+log/
